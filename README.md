@@ -1,5 +1,5 @@
 # Esp8266 Instagram Data  
-======
+ 
 ##  Настройка
  
              instagram_data.server(адрес сервера,путь к файлу);
